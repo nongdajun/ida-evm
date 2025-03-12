@@ -9,5 +9,5 @@ IDA Pro 7.0 or newer is required to use IDA-EVM.
 
 # Installation
 * Copy `evm-loader.py` to `%IDA%/loaders`
-* Copy `evm-cpu.py` and `known_hashes.py` to `%IDA%/procs`
+* Copy `evm-cpu.py` and `evm-cpu/` to `%IDA%/procs`
 * Restart IDA
